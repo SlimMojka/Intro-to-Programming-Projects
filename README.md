@@ -14,10 +14,10 @@ Below is a curated list of practice projects and exercises. Each folder contains
 
 | Project Name | Language(s) | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **`Py-Simple-Task-Manager`** | Python | CLI application demonstrating file persistence and basic data structuring. | Complete |
+| **`Py-Simple-Task-Manager`** | Python | CLI application demonstrating file persistence and basic data structuring. | Ongoing |
 | **`JS-Basic-DOM-Manipulation`** | JavaScript, HTML | Small web experiments focusing on event listeners and DOM updates. | Ongoing |
-| **`C++-Data-Structure-Demos`** | C++ | Implementation of linked lists and binary search trees for practice. | Complete |
-| **`Algorithm-Practice-Set-01`** | Python | Solutions to introductory algorithmic problems (e.g., FizzBuzz, reverse string, simple recursion). | Complete |
+| **`C++-Data-Structure-Demos`** | C++ | Implementation of linked lists and binary search trees for practice. | Ongoing |
+| **`Algorithm-Practice-Set-01`** | Python | Solutions to introductory algorithmic problems (e.g., FizzBuzz, reverse string, simple recursion). | Ongoing |
 
 ## 💡 Why This Repository?
 
